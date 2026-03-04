@@ -1,16 +1,46 @@
-## Hi there 👋
+# ROLL FOR INITIATIVE
+### CHOOSE YOUR CLASS
 
-<!--
-**DarlanMelo-eng/DarlanMelo-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Warrior | +1 To Roll](https://github.com/benjaminsampica/benjaminsampica/issues/new?title=roll%7Cwarrior&body=Just+click+%27Create%27.)
 
-Here are some ideas to get you started:
+[Cleric | +1 To Roll](https://github.com/benjaminsampica/benjaminsampica/issues/new?title=roll%7Ccleric&body=Just+click+%27Create%27.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Rogue | +3 To Roll](https://github.com/benjaminsampica/benjaminsampica/issues/new?title=roll%7Crogue&body=Just+click+%27Create%27.)
+
+[Wizard | -1 To Roll](https://github.com/benjaminsampica/benjaminsampica/issues/new?title=roll%7Cwizard&body=Just+click+%27Create%27.)
+### LAST ROLL BY
+[peterschwps](https://www.github.com/peterschwps) - as a warrior rolled a 20!
+
+|Class|Count|
+|-|-|
+|Warrior|802|
+|Cleric|448|
+|Rogue|781|
+|Wizard|549|
+
+|Roll|Count|
+|-|-|
+|23|35
+|22|48
+|21|129
+|20|108
+|19|110
+|18|117
+|17|137
+|16|117
+|15|130
+|14|105
+|13|124
+|12|140
+|11|120
+|10|121
+|9|143
+|8|124
+|7|152
+|6|148
+|5|116
+|4|133
+|3|97
+|2|81
+|1|45
+|0|0
