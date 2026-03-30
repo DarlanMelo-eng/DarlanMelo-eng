@@ -20,7 +20,7 @@
 ---
 
 ### 📈 Meu Gráfico de Evolução (Treino Diário)
-![Seu Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=DarlanMelo-eng&show_icons=true&theme=dracula&bg_color=1a1a1a&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff)
+<img src="https://i.pinimg.com/originals/8d/90/8a/8d908ae4bb456d5e864b5346affe6070.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 960px; height: 419px; margin: 0px; width: 559px;" alt="26 ideas de Dragon ball pixel | dragones, animacion gif, dragon ball" jsname="kn3ccd">
 
 > "O poder surge em resposta a uma necessidade, não em resposta a um desejo." — **Goku** (Enquanto eu tento debugar meu primeiro `if/else`)
 
